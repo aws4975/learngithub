@@ -7,3 +7,4 @@ console.log("Tents.js loaded");
 console.log("Tents.js loaded");
 console.log("Tents.js loaded");
 console.log("Tents.js loaded");
+console.log("Tents.js loaded");
